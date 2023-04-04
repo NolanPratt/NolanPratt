@@ -7,13 +7,3 @@
 - 🐱‍🏍 I am currently learning about the software development life cycle in practice, while also covering my first database technology in Structured Query Language.
 
 - 💞️ I’m looking to collaborate with any software engineers who enjoy the early learning experience as I do and anyone who would like to provide insight.
-
-- 📫 Contact Information:
-
-      Email - nolanapratt@gmail.com
-      
-      Phone - +44 7393 924034
-      
-      LinkedIn - https://www.linkedin.com/in/nolanapratt/
-      
-      FaceBook - https://www.facebook.com/nolan.pratt/
