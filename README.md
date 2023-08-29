@@ -12,7 +12,7 @@ I am currently open to furthering my professional experience in software develop
 | :------------ | :----------: | :--------: | :---------------: | :----: | :---: | :-------------: | :---: | :--------: |
 | **Languages** | Python       | JavaScript | R                 | C++    | Java  | MATLAB          | SQL   | HTML / CSS |
 |               |              |            |                   |        |       |                 |       |            |
-| Tools         | Pandas       | React      | ResourceSelection | OpenGL | Swing | iRobot Create 2 | MySQL |            |
+| **Tools**         | Pandas       | React      | ResourceSelection | OpenGL | Swing | iRobot Create 2 | MySQL |            |
 |               | NumPy        | Next.js    | pROC              |        |       |                 |       |            |
 |               | SciPy        | Node.js    |                   |        |       |                 |       |            |
 |               | Matplotlib   | Express.js |                   |        |       |                 |       |            |
