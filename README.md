@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @NolanPratt. I am a passionate and curious junior developer. I am currently attending Southern New Hampshire University as a student within the Computer Science discipline with a concentration in Data Analysis. I am in my junior year with an expected graduation window in June 2024.
+# Hey, I’m Nolan 👋
+I’m an aspiring and committed Full Stack Software Engineer. I enjoy solving complex problems and implementing real-world solutions by utilizing my foundational knowledge within the field, which has been gathered through years of academic and professional experience.
 
-- 👀 I am interested in Machine Learning and Embedded Systems Engineering. I am searching for my first software engineering position to gain work experience within my discipline and to also learn from a knowledgeable team to promote my own development as a Software Engineer.
+I have a diverse background in the STEM field, alongside various career experiences, wherein I studied physics and aerospace engineering, and I am currently in my final year as a computer science student. Because of my many experiences, my interests range widely from embedded systems, machine learning, retail systems autonomy, and data analytics, to web design and video game development.
 
-- ✔ I have covered the following languages and technologies in practice: C++, Java, Python, R, SQL, & MATLAB.
+I am currently open to furthering my professional experience in software development, so feel free to reach out with any opportunities that you may think align with my interests!
 
-- 🐱‍🏍 I am currently learning about data structure and algorithm implementation within professional system design, while also covering 3D software techniques using OpenGL, Unreal Engine, and Blender.
+---
 
-- 💞️ I’m looking to collaborate with any software engineers who enjoy the learning experience as I do and anyone who would like to provide roadmap or career insight.
+## Proficiency
+|               |              |            |                   |        |       |                 |       |            |
+| :------------ | :----------: | :--------: | :---------------: | :----: | :---: | :-------------: | :---: | :--------: |
+| **Languages** | Python       | JavaScript | R                 | C++    | Java  | MATLAB          | SQL   | HTML / CSS |
+|               |              |            |                   |        |       |                 |       |            |
+| Tools         | Pandas       | React      | ResourceSelection | OpenGL | Swing | iRobot Create 2 | MySQL |            |
+|               | NumPy        | Next.js    | pROC              |        |       |                 |       |            |
+|               | SciPy        | Node.js    |                   |        |       |                 |       |            |
+|               | Matplotlib   | Express.js |                   |        |       |                 |       |            |
+|               | Pygame       |            |                   |        |       |                 |       |            |
+|               | Requests     |            |                   |        |       |                 |       |            |
+|               | IPython      |            |                   |        |       |                 |       |            |
+
+
