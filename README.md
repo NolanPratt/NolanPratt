@@ -8,16 +8,16 @@ I am currently open to furthering my professional experience in software develop
 ---
 
 ## Proficiency
-|               |              |            |                   |        |       |                 |       |            |
-| :------------ | :----------: | :--------: | :---------------: | :----: | :---: | :-------------: | :---: | :--------: |
-| **Languages** | Python       | JavaScript | R                 | C++    | Java  | MATLAB          | SQL   | HTML / CSS |
-|               |              |            |                   |        |       |                 |       |            |
-| **Tools**         | Pandas       | React      | ResourceSelection | OpenGL | Swing | iRobot Create 2 | MySQL |            |
-|               | NumPy        | Next.js    | pROC              |        |       |                 |       |            |
-|               | SciPy        | Node.js    |                   |        |       |                 |       |            |
-|               | Matplotlib   | Express.js |                   |        |       |                 |       |            |
-|               | Pygame       |            |                   |        |       |                 |       |            |
-|               | Requests     |            |                   |        |       |                 |       |            |
-|               | IPython      |            |                   |        |       |                 |       |            |
+|               |              |            |                   |        |        |                 |       |            |
+| :------------ | :----------: | :--------: | :---------------: | :----: | :----: | :-------------: | :---: | :--------: |
+| **Languages** | Python       | JavaScript | R                 | C++    | Java   | MATLAB          | SQL   | HTML / CSS |
+|               |              |            |                   |        |        |                 |       |            |
+| **Tools**     | Pandas       | React      | ResourceSelection | OpenGL | Spring | iRobot Create 2 | MySQL |            |
+|               | NumPy        | Next.js    | pROC              |        | Swing  |                 |       |            |
+|               | SciPy        | Node.js    |                   |        |        |                 |       |            |
+|               | Matplotlib   | Express.js |                   |        |        |                 |       |            |
+|               | Pygame       |            |                   |        |        |                 |       |            |
+|               | Requests     |            |                   |        |        |                 |       |            |
+|               | IPython      |            |                   |        |        |                 |       |            |
 
 
