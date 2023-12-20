@@ -1,4 +1,4 @@
-<img width="1280px" height="500px" src="https://github.com/NolanPratt/NolanPratt/blob/main/GitHub%20Banner.png" alt="BannerImg">
+<img width="1280px" height="400px" src="https://github.com/NolanPratt/NolanPratt/blob/main/GitHub%20Banner.png" alt="BannerImg">
 
 #### I enjoy tackling intricate challenges and translating them into practical solutions by utilizing my proficiency within the field, which has been grounded in a robust foundation through years of cultivation in both academic exploration and hands-on professional engagements.
 
