@@ -5,6 +5,8 @@ I have a diverse background in the STEM field, alongside various career experien
 
 I am currently open to furthering my professional experience in software development, so feel free to reach out with any opportunities that you may think align with my interests!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolanpratt)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Proficiency
