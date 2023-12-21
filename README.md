@@ -23,3 +23,5 @@
 | Contribution Graph | Languages |
 | :---: | :---: |
 |<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NolanPratt&theme=transparent&hide_border=true&border_radius=10" alt="Nolan's Github Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanPratt&theme=transparent&hide_border=true&border_radius=10"/>|
+
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
